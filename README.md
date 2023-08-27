@@ -35,16 +35,10 @@
 ### 💻 Source Code
 
 - 🔗 [Chapter 1 - Intro to Redux](https://github.com/mahdihassani12/react_redux_rtk_query/tree/main/lesson-1)
-- 🔗 [Chapter 2 Starter Code - Example Project]()
-- 🔗 [Chapter 2 Completed Code - Example Project]()
-- 🔗 [Chapter 3 Starter Code - Async Thunks]()
+- 🔗 [Chapter 2 Completed Code - Example Project](https://github.com/mahdihassani12/react_redux_rtk_query/tree/main/lesson-2)
 - 🔗 [Chapter 3 Completed Code - Async Thunks]()
-- 🔗 [Chapter 4 Starter Code - Blog Project]()
 - 🔗 [Chapter 4 Completed Code - Blog Project]()
-- 🔗 [Chapter 5 Starter Code - Performance]()
 - 🔗 [Chapter 5 Completed Code - Performance]()
-- 🔗 [Chapter 6 Starter Code - RTK Query]()
 - 🔗 [Chapter 6 Completed Code - RTK Query]()
-- 🔗 [Chapter 7 Starter Code - Advanced Redux Blog]()
 - 🔗 [Chapter 7 Completed Code - Advanced Redux Blog]()
 - 🔗 [Chapter 8 - Blog Project with full RTK Query Refactor]()
